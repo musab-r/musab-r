@@ -174,9 +174,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div class="container">
   <div class="leftColumn">
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Andy Bernard</p>
+> <p>- Jim Halpert</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
