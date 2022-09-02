@@ -174,9 +174,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div class="container">
   <div class="leftColumn">
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Andy Bernard</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
