@@ -19,7 +19,6 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <br>
 
 ## 📌 Pinned Repositories
-<hr>
 
 
 ###  &#127891; Academia
@@ -60,7 +59,6 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <br>
 
 ## &#x1f4c8; GitHub Stats
-<hr>
 
 <div style="width:100%" >
   <div>
@@ -79,7 +77,6 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <br>
 
 ## 💼 Skills
-<hr>
 <br>
 
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?label=Code&style=flat&logo=ruby&logoColor=red&color=4AB197)
@@ -126,11 +123,10 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <br>
 
 ## 📣 How about an Office quote before you go?
-<hr>
 <br>
 
-<div style="width:100%;">
-  <div style="width:65%; float:left; margin:5px; display:block; position:relative;">
+<div>
+  <div style="width:65%; float:left; margin:5px; ">
 
 > {office_quote}
 >
@@ -138,12 +134,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
-  <div style="width:25%; float:left; margin:5px;display:block; position:relative;">
-    <iframe src="https://giphy.com/embed/s99VUdNNp2kzYJDq4B" width="20%" height="20%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <div align="center" style="width:30%; float:left; margin:5px; ">
+    <img src="./assets/gif.gif" width="40%" height="40%" />
   </div>
 </div>
-
-
-
 
 <br>
