@@ -126,7 +126,7 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <br>
 
 <div>
-  <div style="width:65%; float:left; margin:5px; ">
+  <div style="width:65%; float:left; margin:5px;">
 
 > {office_quote}
 >
@@ -134,8 +134,8 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
-  <div align="center" style="width:30%; float:left; margin:5px; ">
-    <img src="./assets/gif.gif" width="40%" height="40%" />
+  <div style="width:25%; float:left; margin:5px;">
+    <img src="./assets/gif.gif" width="10%" height="10%" />
   </div>
 </div>
 
