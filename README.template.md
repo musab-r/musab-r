@@ -126,34 +126,18 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <br>
 
 
-<!-- <div style="width:100% clear: both; display: inline-block; ">
-  <div style=" float:left;">
+<div>
+  <div style="width:65%; float:left; margin:5px; ">
 
-> I have a lot of questions. Number one, how dare you?
->
-> <p>- Kelly Kapoor</p>
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-  </div>
-  <div style="">
-    <img src="./assets/gif.gif" width="10%" height="10%" />
-  </div>
-</div> -->
-
-<table style="border:none!important; width:100%">
-  <tr style="border: none!important; width:100%">
-    <td >
-<div style=" float:left;">
-  
 > {office_quote}
 >
 > <p>{office_character}</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
-  
+
+  </div>
+  <div align="center" style="width:30%; float:left; margin:5px; ">
+    <img src="./assets/gif.gif" width="40%" height="40%" />
+  </div>
 </div>
-</td>
-    <td align="center" > <img src="./assets/gif.gif" width="40%" height="40%" /> </td>
-  </tr>
-</table>
 
 <br>
