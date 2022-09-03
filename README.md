@@ -129,9 +129,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div>
   <div style="width:65%; float:left; margin:5px; ">
 
-> {office_quote}
+> Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
 >
-> <p>{office_character}</p>
+> <p>- Creed Bratton</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
@@ -139,6 +139,5 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
     <img src="./assets/gif.gif" width="40%" height="40%" />
   </div>
 </div>
-
 
 <br>
