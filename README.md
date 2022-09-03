@@ -174,9 +174,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div class="container">
   <div class="leftColumn">
 
-> I am immensely proud of what I did for that turtle!
+> I feel God in this Chili’s tonight.
 >
-> <p>- Kevin Malone</p>
+> <p>- Pam Beesly</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
