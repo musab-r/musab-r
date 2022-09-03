@@ -145,9 +145,9 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
     <td >
 <div style=" float:left;">
   
-> I have a lot of questions. Number one, how dare you?
+> {office_quote}
 >
-> <p>- Kelly Kapoor</p>
+> <p>{office_character}</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 </div>
