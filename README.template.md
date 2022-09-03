@@ -1,45 +1,3 @@
-<!-- CSS STARTS HERE  -->
-<style>
-* {
-  box-sizing: border-box;
-}
-
-/* Create two equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 50%;
-  padding: 5px;
-
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-.container {width:100%;}
-
-.leftColumn  {width:65%; float:left; margin:5px;}
-.rightColumn {width:25%; float:left; margin:5px;}
-
-@media(max-width:400px)
-{
-    .leftColumn  { width:100px; float:none; display:block; position:relative; }
-    .rightColumn { width:100px; float:none; display:block; position:relative; }
-}
-
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
-}
-</style>
-
-<!-- CSS ENDS HERE -->
-
 
 <!-- EXTERNAL LINKS -->
 
@@ -66,8 +24,8 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 
 ###  &#127891; Academia
 
-<div class="row">
-  <div class="column">
+<div style="width:100%">
+  <div>
     <a href="https://github.com/musab-r/TCN">
       <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=musab-r&repo=TCN&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
     </a>
@@ -78,8 +36,8 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
     </a>
   </div>
 </div>
-<div class="row" >
-  <div class="column">
+<div style="width:100%">
+  <div>
     <a href="https://github.com/musab-r/SSVR_FYP">
       <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=musab-r&repo=SSVR_FYP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
     </a>
@@ -90,8 +48,8 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 
 ### &#127970; Work
 
-<div class="row" >
-  <div class="column">
+<div style="width:100%" >
+  <div>
     <a href="https://github.com/musab-r/React-Native-Hijri-Calendar">
       <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=musab-r&repo=React-Native-Hijri-Calendar&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
     </a>
@@ -104,13 +62,13 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 ## &#x1f4c8; GitHub Stats
 <hr>
 
-<div class="row" >
-  <div class="column" >
+<div style="width:100%" >
+  <div>
     <a href="https://github.com/musab-r">
       <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musab-r&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
     </a>
   </div>
-  <div class="column" >
+  <div>
     <a href="https://github.com/musab-r">
       <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=musab-r&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
     </a>
@@ -171,8 +129,8 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <hr>
 <br>
 
-<div class="container">
-  <div class="leftColumn">
+<div style="width:100%;">
+  <div style="width:65%; float:left; margin:5px; display:block; position:relative;">
 
 > {office_quote}
 >
@@ -180,7 +138,7 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
-  <div class="rightColumn">
+  <div style="width:25%; float:left; margin:5px;display:block; position:relative;">
     <iframe src="https://giphy.com/embed/s99VUdNNp2kzYJDq4B" width="20%" height="20%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
   </div>
 </div>
