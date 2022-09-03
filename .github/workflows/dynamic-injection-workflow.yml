@@ -39,4 +39,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: musab-r/musab-r@main
+      - uses: musab-r/musab-r
