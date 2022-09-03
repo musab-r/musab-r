@@ -125,18 +125,35 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 ## 📣 How about an Office quote before you go?
 <br>
 
-<div>
-  <div style="width:65%; float:left; margin:5px;">
 
-> {office_quote}
+<!-- <div style="width:100% clear: both; display: inline-block; ">
+  <div style=" float:left;">
+
+> I have a lot of questions. Number one, how dare you?
 >
-> <p>{office_character}</p>
+> <p>- Kelly Kapoor</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
-  <div style="width:25%; float:left; margin:5px;">
+  <div style="">
     <img src="./assets/gif.gif" width="10%" height="10%" />
   </div>
+</div> -->
+
+<table style="border:none!important; width:100%">
+  <tr style="border: none!important; width:100%">
+    <td >
+<div style=" float:left;">
+  
+> I have a lot of questions. Number one, how dare you?
+>
+> <p>- Kelly Kapoor</p>
+_Quote requested from [The Office API](https://www.officeapi.dev/)_
+
 </div>
+</td>
+    <td align="center" > <img src="./assets/gif.gif" width="40%" height="40%" /> </td>
+  </tr>
+</table>
 
 <br>
