@@ -7,6 +7,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/musabrasheed/)
 [![Stack Overflow Badge](https://img.shields.io/endpoint?color=%23F58025&label=stackoverflow&logo=stackoverflow&logoColor=%23F58025&url=https%3A%2F%2Fmusab-r-8muoqy1d6btv.runkit.sh%2F)](https://stackoverflow.com/users/11479936/musab)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Musabrsheed)
+
+[![Runtime Workflow](https://github.com/musab-r/musab-r/actions/workflows/drw.yml/badge.svg?branch=main)](https://github.com/musab-r/musab-r/actions/workflows/drw.yml)
 </div>
 
 <!-- BODY -->
