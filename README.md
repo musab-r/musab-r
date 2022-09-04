@@ -130,9 +130,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div>
   <div style="width:65%; float:left; margin:5px; ">
 
-> I am immensely proud of what I did for that turtle!
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Kevin Malone</p>
+> <p>- Jim Halpert</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
