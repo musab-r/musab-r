@@ -130,9 +130,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div>
   <div style="width:65%; float:left; margin:5px; ">
 
-> Bears, Beets, Battlestar Galactica.
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Jim Halpert</p>
+> <p>- Angela Martin</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
