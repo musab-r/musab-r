@@ -130,9 +130,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div>
   <div style="width:65%; float:left; margin:5px; ">
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Dwight Schrute</p>
+> <p>- Kevin Malone</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
