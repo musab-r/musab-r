@@ -130,9 +130,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div>
   <div style="width:65%; float:left; margin:5px; ">
 
-> I have a lot of questions. Number one, how dare you?
+> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Phyllis Lapin</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
