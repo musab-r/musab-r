@@ -130,9 +130,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div>
   <div style="width:65%; float:left; margin:5px; ">
 
-> I have been Michael's #2 guy for about 5 years. And we make a great team. We're like one of those classic famous teams. He's like Mozart, and I'm like Mozart's friend. No. I'm like Butch Cassidy, and Michael is like Mozart. You try and hurt Mozart; you're going to get a bullet in your head courtesy of Butch Cassidy.
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
-> <p>- Dwight Schrute</p>
+> <p>- Pam Beesly</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
