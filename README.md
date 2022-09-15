@@ -130,7 +130,7 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div>
   <div style="width:65%; float:left; margin:5px; ">
 
-> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
+> Occasionally, I’ll hit somebody with my car. So sue me.
 >
 > <p>- Michael Scott</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
