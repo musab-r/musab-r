@@ -130,9 +130,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div>
   <div style="width:65%; float:left; margin:5px; ">
 
-> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Oscar Martinez</p>
+> <p>- Andy Bernard</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
