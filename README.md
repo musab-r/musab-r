@@ -130,9 +130,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div>
   <div style="width:65%; float:left; margin:5px; ">
 
-> I. Declare. Bankruptcy!
+> It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
