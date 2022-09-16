@@ -130,9 +130,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div>
   <div style="width:65%; float:left; margin:5px; ">
 
-> It has to be official, and it has to be urine.
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
