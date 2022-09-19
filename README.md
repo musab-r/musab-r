@@ -130,9 +130,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div>
   <div style="width:65%; float:left; margin:5px; ">
 
-> Bears, Beets, Battlestar Galactica.
+> You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'
 >
-> <p>- Jim Halpert</p>
+> <p>- Andy Bernard</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
