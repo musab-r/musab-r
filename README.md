@@ -130,9 +130,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div>
   <div style="width:65%; float:left; margin:5px; ">
 
-> I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
+> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Phyllis Lapin</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
