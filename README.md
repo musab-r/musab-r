@@ -130,9 +130,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div>
   <div style="width:65%; float:left; margin:5px; ">
 
-> Bears, Beets, Battlestar Galactica.
+> It has to be official, and it has to be urine.
 >
-> <p>- Jim Halpert</p>
+> <p>- Dwight Schrute</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
