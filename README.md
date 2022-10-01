@@ -130,9 +130,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div>
   <div style="width:65%; float:left; margin:5px; ">
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Andy Bernard</p>
+> <p>- Gabe Lewis</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
