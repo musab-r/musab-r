@@ -130,9 +130,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div>
   <div style="width:65%; float:left; margin:5px; ">
 
-> I have a lot of questions. Number one, how dare you?
+> I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Stanley Hudson</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
