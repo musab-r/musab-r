@@ -130,7 +130,7 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div>
   <div style="width:65%; float:left; margin:5px; ">
 
-> Well, Happy Birthday Jesus. Sorry your party’s so lame.
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
 > <p>- Michael Scott</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
