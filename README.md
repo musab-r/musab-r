@@ -27,19 +27,19 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div style="width:100%">
   <div>
     <a href="https://github.com/musab-r/TCN">
-      <img align="center" style="margin:0.5rem" src="https://musab-r.vercel.app/api/pin/?username=musab-r&repo=TCN&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=musab-r&repo=TCN&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
     </a>
   </div>
   <div class="column">
     <a href="https://github.com/musab-r/Computational_Intelligence_Project">
-      <img align="center" style="margin:0.5rem;" src="https://musab-r.vercel.app/api/pin/?username=musab-r&repo=Computational_Intelligence_Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+      <img align="center" style="margin:0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=musab-r&repo=Computational_Intelligence_Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
     </a>
   </div>
 </div>
 <div style="width:100%">
   <div>
     <a href="https://github.com/musab-r/SSVR_FYP">
-      <img align="center" style="margin:0.5rem" src="https://musab-r.vercel.app/api/pin/?username=musab-r&repo=SSVR_FYP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=musab-r&repo=SSVR_FYP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
     </a>
   </div>
 </div>
