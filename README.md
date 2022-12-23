@@ -69,7 +69,7 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
   </div>
   <div>
     <a href="https://github.com/musab-r">
-      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=musab-r&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Musab's GitHub Stats" />
+      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=musab-r&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
     </a>
   </div>
 </div>
@@ -130,9 +130,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div>
   <div style="width:65%; float:left; margin:5px; ">
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
