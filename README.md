@@ -130,9 +130,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div>
   <div style="width:65%; float:left; margin:5px; ">
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
 >
-> <p>- Pam Beesly</p>
+> <p>- Angela Martin</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
