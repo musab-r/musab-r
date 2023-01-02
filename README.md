@@ -130,9 +130,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div>
   <div style="width:65%; float:left; margin:5px; ">
 
-> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
+> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
 >
-> <p>- Jim Halpert</p>
+> <p>- Oscar Martinez</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
