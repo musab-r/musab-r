@@ -130,7 +130,7 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div>
   <div style="width:65%; float:left; margin:5px; ">
 
-> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
 >
 > <p>- Michael Scott</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
