@@ -130,9 +130,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div>
   <div style="width:65%; float:left; margin:5px; ">
 
-> Did I stutter?
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Andy Bernard</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
