@@ -130,9 +130,9 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 <div>
   <div style="width:65%; float:left; margin:5px; ">
 
-> Well, Happy Birthday Jesus. Sorry your party’s so lame.
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Michael Scott</p>
+> <p>- Kevin Malone</p>
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
   </div>
