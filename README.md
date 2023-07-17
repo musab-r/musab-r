@@ -90,8 +90,10 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/C++-%2300599C.svg?label=Code&style=flat&logo=c%2B%2B&logoColor=white&color=4AB197)
 
+<!---
 <details>
 <summary>More</summary>
+-->
 <br>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&color=4AB197)
@@ -119,7 +121,7 @@ I’m Musab, a *software engineer*, creative coder and fast-learner. 4+ Years of
 
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&&color=4AB197)
 
-</details>
+<!--- </details> -->
 
 <br>
 
