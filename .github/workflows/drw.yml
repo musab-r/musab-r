@@ -21,7 +21,10 @@ jobs:
       - run: yarn
 
       - run: node .
-
+      
+      - name: Disable rebase during pull
+        run: git pull --no-rebase
+      
       - name: Add to git repo
         run: |
           git config pull.rebase false
