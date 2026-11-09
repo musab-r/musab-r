@@ -1,60 +1,49 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Runtime Workflow
+
 on:
-  schedule: # Run workflow automatically
-    # This will make it run every hour
+  schedule:
+    # 14:15 UTC on the 1st of every month
     - cron: "15 14 1 * *"
-    # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  # Allows running it manually from the Actions tab
   workflow_dispatch:
+
+# Read-only by default; only the job that commits gets write access.
+permissions:
+  contents: read
+
+# Never let two runs push at the same time.
+concurrency:
+  group: readme-update
+  cancel-in-progress: false
+
 jobs:
-  get-office-quotes:
+  update-office-quote:
+    name: Update README with a new Office quote
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
+      # Actions are pinned to exact commits so a moved tag can't change what runs.
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
-      - name: Let the magic happen
-        uses: actions/setup-node@v1
+      - name: Set up Node.js
+        uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
         with:
-          node-version: 14.6.0
+          node-version: 24
 
-      - name: Install dependencies
-        run: yarn
+      - name: Generate README
+        run: node index.js
 
-      - name: Run Node.js script
-        run: node .
-
-      - name: Disable rebase during pull
-        run: git pull --no-rebase
-
-      - name: Check for changes
-        id: check_changes
+      - name: Commit and push if README changed
         run: |
-          changes=$(git diff)
-          if [ -n "$changes" ]; then
-            echo "::set-output name=changes::true"
-          else
-            echo "::set-output name=changes::false"
+          if git diff --quiet -- README.md; then
+            echo "README unchanged, nothing to commit."
+            exit 0
           fi
-
-      - name: Add changes to git
-        if: steps.check_changes.outputs.changes == 'true'
-        run: |
-          git add .
-          git config --global user.name "musab"
-          git config --global user.email "musab.rasheed@yahoo.com"
-          git commit -m "[Automated] README updated with new Office quote."
-
-      - name: Push
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-
-  update-readme-with-blog:
-    needs: get-office-quotes
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-        with:
-          ref: main
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "[Automated] README updated with new Office quote"
+          git push
