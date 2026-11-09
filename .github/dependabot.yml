@@ -1,0 +1,7 @@
+# Opens a PR when a pinned GitHub Action has a new release, so the pins don't go stale.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly

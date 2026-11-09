@@ -1,5 +1,11 @@
 {
-  "dependencies": {
-    "isomorphic-unfetch": "^3.1.0"
+  "name": "musab-r",
+  "private": true,
+  "description": "Builds the GitHub profile README with a random quote from The Office.",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
